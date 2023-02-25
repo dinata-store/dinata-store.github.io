@@ -1,2 +1,1 @@
-# dinata-store.github.io
-store saya
+# Website store
